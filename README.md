@@ -1,2 +1,3 @@
 Spotify Clone
-## CLICK HERE ["https://anmoldtuece.github.io/Spotify-Clone--1-/"]
+## Project Link
+ [CLICK HERE]("https://anmoldtuece.github.io/Spotify-Clone--1-/")
